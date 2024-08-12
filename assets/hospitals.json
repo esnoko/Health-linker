@@ -1,0 +1,94 @@
+{
+    "hospitals":  [
+        {
+        "hospital_name":"SESHEGO HOSPITAL",
+        "address": "Zone 1, Nelson Mandela Dr,Seshego-B,Polokwane",
+        "coordinates": { "lat":-23.854510170617257,"lng":29.396547338815378},
+        "available":"YES"
+        },
+        {
+            "hospital_name":"MANKWENG HOSPITAL",
+            "coordinates": { "lat":-23.88056335053971,"lng":29.726000641163903},
+            "address": "Private Bag X1117 Sovenga 0727"
+            },
+            {
+                "hospital_name":"MOKOPANE HOSPITAL",
+                 "address": "Private Bag X MOKOPANE 0600",
+                 "coordinates": { "lat":-23.79515907613973,"lng":29.68998692599707},
+                 "available":"YES"
+                },
+                {
+                    "hospital_name":"Polokwane Hospital",
+                    "address": "Cnr Hospital & Dorp Street",
+                    "available":"YES"
+                    },
+                    {
+                        "hospital_name":"WF Knobel Hospital",
+                        "address": "Private Bag X65, Lonsdale"
+                        ,"available":"NO"
+                        },
+                    {
+                        "hospital_name":"Lebowakgomo hospital",
+                        "address": "Private Bag X14, Chuenespoort",
+                        "available":"YES"
+                        }
+    
+    ],
+
+   "meds":[
+        {
+          "name": "Paracetamol",
+          "barcode": "1234567890123",
+          "type": "Analgesic"
+        },
+        {
+          "name": "Ibuprofen",
+          "barcode": "9876543210987",
+          "type": "Nonsteroidal Anti-inflammatory Drug (NSAID)"
+        },
+        {
+          "name": "Amoxicillin",
+          "barcode": "4567890123456",
+          "type": "Antibiotic"
+        },
+        {
+          "name": "Aspirin",
+          "barcode": "2345678901234",
+          "type": "Analgesic"
+        },
+        {
+          "name": "Loratadine",
+          "barcode": "3456789012345",
+          "type": "Antihistamine"
+        },
+        {
+          "name": "Metformin",
+          "barcode": "5678901234567",
+          "type": "Antidiabetic"
+        },
+        {
+          "name": "Omeprazole",
+          "barcode": "6789012345678",
+          "type": "Proton Pump Inhibitor"
+        },
+        {
+          "name": "Atorvastatin",
+          "barcode": "7890123456789",
+          "type": "Statin"
+        },
+        {
+          "name": "Losartan",
+          "barcode": "8901234567890",
+          "type": "Antihypertensive"
+        },
+        {
+          "name": "Cetirizine",
+          "barcode": "9012345678901",
+          "type": "Antihistamine"
+        }
+      ]
+      
+}
+    
+
+

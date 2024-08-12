@@ -1,0 +1,109 @@
+{
+    "health_tips": [
+      {
+        "tip": "Recognize TB Signs",
+        "short_description": "Be aware of tuberculosis symptoms",
+        "description": "<p>Tuberculosis (TB) is a bacterial infection that primarily affects the lungs but can also affect other parts of the body. It is spread through the air when an infected person coughs or sneezes.</p><p>Common symptoms of TB include:</p><ul><li>Persistent cough lasting more than 3 weeks</li><li>Chest pain</li><li>Coughing up blood</li><li>Unexplained weight loss</li><li>Fatigue</li><li>Fever</li><li>Night sweats</li></ul><p>If you experience any of these symptoms, especially if you have been in contact with someone who has TB, seek medical attention promptly for evaluation and treatment.</p> <video width='320' height='240' controls><source src='/assets/videos/Tuberculosis (TB) - Signs and Symptoms - Metropolis.mp4' type='video/mp4'>Your browser does not support the video tag.</video>",
+        "image": "https://i.ytimg.com/vi/I-uMjiIuwF8/maxresdefault.jpg"
+      },
+        {
+            "tip": "Stay Hydrated",
+            "short_description": "Drink water regularly",
+            "description": "<p>Staying hydrated is essential for overall health. Water helps regulate body temperature, aids in digestion, and flushes out toxins. It's recommended to drink at least 8 glasses of water a day, but individual needs may vary depending on factors like activity level and climate.</p><p>You can also stay hydrated by consuming hydrating foods like fruits and vegetables, and by avoiding excessive intake of caffeinated and alcoholic beverages.</p>",
+            "image": "https://i.pinimg.com/originals/79/0a/b0/790ab086608aade3cb4c9aec764a6925.jpg"
+          },
+          {
+            "tip": "Eat a Balanced Diet",
+            "short_description": "Eat a variety of foods",
+            "description": "<p>A balanced diet provides the nutrients your body needs to function properly and maintain optimal health. Aim to include a variety of foods from all food groups:</p><ul><li>Fruits and vegetables: Rich in vitamins, minerals, and antioxidants.</li><li>Proteins: Sources include lean meats, poultry, fish, beans, and nuts.</li><li>Whole grains: Provide fiber, vitamins, and minerals.</li><li>Dairy or dairy alternatives: Good sources of calcium and vitamin D.</li><li>Healthy fats: Found in avocados, nuts, seeds, and olive oil.</li></ul><p>Limit processed foods, sugary snacks, and excessive intake of saturated and trans fats.</p>",
+            "image": "https://contenidos.bupasalud.com/sites/default/files/html/imce/Healthy_eating_plate_427x240.jpg"
+          },
+          {
+            "tip": "Exercise Regularly",
+            "short_description": "Stay active",
+            "description": "<p>Regular physical activity has numerous health benefits, including:</p><ul><li>Improving cardiovascular health</li><li>Strengthening muscles and bones</li><li>Managing weight</li><li>Boosting mood and mental well-being</li><li>Reducing the risk of chronic diseases like heart disease, diabetes, and certain cancers</li></ul><p>Aim for at least 150 minutes of moderate-intensity aerobic activity or 75 minutes of vigorous-intensity activity per week, along with muscle-strengthening exercises on two or more days per week.</p>",
+            "image": "https://www.telegraph.co.uk/content/dam/news/2024/04/26/TELEMMGLPICT000375220728_17141155168090_trans_NvBQzQNjv4Bq1noD15PZeWcDdd49f6PURY47UpENaP-RZEasAxstmIY.jpeg?imwidth=680"
+          },
+          {
+            "tip": "Get Enough Sleep",
+            "short_description": "Prioritize sleep",
+            "description": "<p>Sleep is essential for overall health and well-being. It allows your body to rest and recover, supports brain function, and plays a crucial role in various physiological processes.</p><p>Most adults need 7-9 hours of quality sleep per night. Establish a regular sleep schedule, create a relaxing bedtime routine, and ensure your sleep environment is conducive to rest.</p><p>If you struggle with sleep, consider practicing relaxation techniques, limiting screen time before bed, and avoiding caffeine and heavy meals close to bedtime.</p>",
+            "image": "https://mymind.org/image/posts/0853ea02-d1fe-4b54-9f95-4bbef32ad322.jpg"
+          },
+          {
+            "tip": "Practice Good Hygiene",
+            "short_description": "Maintain cleanliness",
+            "description": "<p>Good hygiene is essential for preventing the spread of illness and maintaining overall health. Practice the following hygiene habits:</p><ul><li>Wash your hands regularly with soap and water for at least 20 seconds, especially before eating, after using the bathroom, and after coughing or sneezing.</li><li>Cover your mouth and nose with a tissue or your elbow when coughing or sneezing.</li><li>Keep your living space clean and sanitized, especially frequently-touched surfaces like doorknobs, light switches, and countertops.</li><li>Practice oral hygiene by brushing your teeth at least twice a day and flossing daily.</li><li>Shower regularly and wear clean clothes.</li></ul>",
+            "image": "https://www.youngacademics.com.au/application/assets/2020/05/shutterstock_1677181513.jpg"
+          },
+          {
+            "tip": "Manage Stress",
+            "short_description": "Reduce stress levels",
+            "description": "<p>Chronic stress can have negative effects on both physical and mental health. It's important to develop healthy coping mechanisms to manage stress effectively:</p><ul><li>Practice relaxation techniques such as deep breathing, meditation, or yoga.</li><li>Engage in regular physical activity, which can help reduce stress hormones and increase endorphins.</li><li>Set realistic goals and prioritize tasks to avoid feeling overwhelmed.</li><li>Connect with others and seek social support from friends, family, or support groups.</li><li>Take breaks and engage in activities you enjoy to help recharge and relax.</li></ul>",
+            "image": "https://www.qminder.com/resources/img/blog/stress-management-tips.png"
+          },
+          {
+            "tip": "Limit Sugar and Salt Intake",
+            "short_description": "Reduce sugar and salt consumption",
+            "description": "<p>Excessive consumption of sugar and salt can contribute to various health problems, including obesity, high blood pressure, and heart disease.</p><p>To reduce your intake:</p><ul><li>Avoid sugary drinks like soda, sports drinks, and sweetened beverages. Opt for water, herbal teas, or infused water instead.</li><li>Limit your consumption of processed and packaged foods, which often contain high amounts of added sugars and sodium.</li><li>Read food labels and choose products with lower sugar and sodium content. Be mindful of hidden sources of sugar and salt in condiments, sauces, and snacks.</li><li>Use herbs, spices, and other flavorings to enhance the taste of your meals instead of relying on salt.</li></ul>",
+            "image": "https://www.emro.who.int/images/stories/nutrition/reduce-sugar.jpg"
+          },
+          {
+            "tip": "Avoid Smoking and Limit Alcohol",
+            "short_description": "Quit smoking and drink in moderation",
+            "description": "<p>Smoking and excessive alcohol consumption are major risk factors for various health conditions, including cancer, heart disease, and liver disease.</p><p>If you smoke, seek support to quit smoking through counseling, medications, or support groups. Avoiding exposure to secondhand smoke is also important for your health and the health of those around you.</p><p>Limit alcohol consumption to moderate levels. The recommended limit is up to one drink per day for women and up to two drinks per day for men. Avoid binge drinking and know your limits.</p>",
+            "image": "https://superblog.supercdn.cloud/site_cuid_cl92i00jg261301kozfglx818f/images/stop-smoking-alcohol-cholesterol-1680868585363-compressed.jpg"
+          },
+          {
+            "tip": "Maintain a Healthy Weight",
+            "short_description": "Achieve and maintain a healthy weight",
+            "description": "<p>Maintaining a healthy weight is important for overall health and reducing the risk of chronic diseases such as diabetes, heart disease, and certain cancers.</p><p>To achieve and maintain a healthy weight:</p><ul><li>Follow a balanced diet that includes a variety of nutritious foods in appropriate portions.</li><li>Engage in regular physical activity to burn calories and improve fitness.</li><li>Monitor your weight regularly and make adjustments to your diet and activity level as needed.</li><li>Seek support from a healthcare professional or registered dietitian if you need help developing a personalized weight management plan.</li></ul>",
+            "image": "https://www.practostatic.com/fit/2c15a34cc5766d21ec9a10dc86f5609de547e52f"
+          },
+          {
+            "tip": "Stay Connected",
+            "short_description": "Maintain social connections",
+            "description": "<p>Strong social connections are essential for mental health and well-being. Social support can help reduce stress, improve mood, and provide a sense of belonging.</p><p>Stay connected with friends, family, and community members through:</p><ul><li>Regular communication via phone calls, video chats, or in-person visits.</li><li>Participating in social activities and group gatherings.</li><li>Joining clubs, organizations, or support groups with shared interests or experiences.</li><li>Volunteering or helping others in your community.</li></ul>",
+            "image": "https://t3.ftcdn.net/jpg/04/14/24/74/360_F_414247468_pJb0H8Us6VfSb1wksU5yrEgE2UI6t6nZ.jpg"
+          },
+         
+          {
+            "tip": "HIV/AIDS Prevention",
+            "short_description": "Protect yourself from HIV/AIDS",
+            "description": "<p>HIV (human immunodeficiency virus) is a virus that attacks the body's immune system, leading to AIDS (acquired immunodeficiency syndrome) if left untreated. HIV is primarily spread through unprotected sexual contact, sharing needles or syringes, or from mother to child during pregnancy, childbirth, or breastfeeding.</p><p>To reduce your risk of HIV infection:</p><ul><li>Use condoms consistently and correctly during sexual activity.</li><li>Get tested for HIV and encourage your sexual partners to do the same.</li><li>Limit the number of sexual partners and avoid high-risk sexual behaviors.</li><li>Avoid sharing needles or syringes for injection drug use, tattoos, or body piercings.</li><li>Consider pre-exposure prophylaxis (PrEP) if you are at high risk of HIV infection.</li></ul>",
+            "image": "https://media.licdn.com/dms/image/C4D12AQHcqf08Rus79A/article-cover_image-shrink_720_1280/0/1568652048918?e=2147483647&v=beta&t=J9zmNB96OsAoUMjHCog0DcbYed5VpW4IRGG__j7iZRQ"
+          },
+          {
+            "tip": "Coronavirus Safety",
+            "short_description": "Protect yourself from COVID-19",
+            "description": "<p>Coronavirus disease (COVID-19) is caused by the SARS-CoV-2 virus and primarily spreads through respiratory droplets when an infected person coughs, sneezes, or talks. COVID-19 can cause mild to severe respiratory illness, and in some cases, can lead to severe complications or death.</p> <p>To reduce your risk of COVID-19:</p><ul><li>Wear a mask in public settings, especially when social distancing is not possible.</li><li>Practice good hand hygiene by washing your hands frequently with soap and water for at least 20 seconds.</li><li>Maintain physical distance from others, especially those who are sick or have symptoms of COVID-19.</li><li>Avoid large gatherings and crowded indoor spaces.</li><li>Get vaccinated against COVID-19 when eligible and encourage others to do the same.</li></ul>",
+            "image": "https://premierhospital.in/wp-content/uploads/2020/05/Coronavirus-COVID19-How-to-Protect-Yourself-Others.jpg"
+          },
+          {
+            "tip": "Coronavirus Signs",
+            "short_description": "Be aware of COVID-19 symptoms",
+            "description": "<p>COVID-19 symptoms can vary widely and may appear 2-14 days after exposure to the virus. Common symptoms include:</p><ul><li>Fever or chills</li><li>Cough</li><li>Shortness of breath or difficulty breathing</li><li>Fatigue</li><li>Muscle or body aches</li><li>Headache</li><li>New loss of taste or smell</li><li>Sore throat</li><li>Congestion or runny nose</li><li>Nausea or vomiting</li><li>Diarrhea</li></ul><p>If you experience any of these symptoms, especially if you have been in close contact with someone who has COVID-19 or have recently traveled to an area with widespread transmission, seek medical attention for evaluation and testing.</p>",
+            "image": "https://cdn.vox-cdn.com/thumbor/b_XHmLAgjMLRq4shAqoZVZSgiMw=/1400x1050/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/20537762/Covid_Symptoms.png"
+          },
+          {
+            "tip": "Must-Have Nutrients",
+            "short_description": "Include essential nutrients in your diet",
+            "description": "<p>Essential nutrients are compounds that your body needs to function properly and maintain optimal health. Include the following nutrients in your diet:</p><ul><li>Proteins: Building blocks of cells and tissues, important for muscle repair and growth.</li><li>Carbohydrates: Main source of energy, found in foods like grains, fruits, and vegetables.</li><li>Healthy fats: Provide energy, support cell growth, and help absorb certain vitamins.</li><li>Vitamins and minerals: Play various roles in metabolism, immunity, and overall health.</li><li>Fiber: Aids digestion, promotes bowel regularity, and helps control blood sugar levels.</li></ul><p>Include a variety of nutrient-rich foods in your meals to ensure you get all the essential nutrients your body needs.</p>",
+            "image": "https://www.verywellfit.com/thmb/7snAsYaDjlg8KmTbxMNrSaF6bw4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/nutrients-what-they-are-and-why-you-need-them-2507078-FINAL-e65d7ad29bdf4d99afca860abc76d19a.png"
+          },
+          {
+            "tip": "Must-Not Foods",
+            "short_description": "Avoid unhealthy foods",
+            "description": "<p>Avoid or limit the consumption of the following unhealthy foods:</p><ul><li>Processed meats: High in sodium, saturated fats, and preservatives.</li><li>Sugary drinks: Provide empty calories and contribute to weight gain and tooth decay.</li><li>Trans fats: Found in processed and fried foods, increase bad cholesterol levels and raise the risk of heart disease.</li><li>Excessive salt: Contributes to high blood pressure and increases the risk of stroke and heart disease.</li><li>High-sugar snacks: Provide quick energy but lack nutritional value, leading to energy crashes and weight gain.</li></ul><p>Choose whole, minimally processed foods whenever possible and prioritize nutrient-dense options for optimal health.</p>",
+            "image": "https://www.eatthis.com/wp-content/uploads/sites/4/2024/01/Unhealthy-foods.jpg?quality=82&strip=1"
+          },
+          {
+            "tip": "Coronavirus Safety",
+            "short_description": "Protect yourself from COVID-19",
+            "description": "<p>Coronavirus disease (COVID-19) is caused by the SARS-CoV-2 virus and primarily spreads through respiratory droplets when an infected person coughs, sneezes, or talks. COVID-19 can cause mild to severe respiratory illness, and in some cases, can lead to severe complications or death.</p><p>To reduce your risk of COVID-19:</p><ul><li>Wear a mask in public settings, especially when social distancing is not possible.</li><li>Practice good hand hygiene by washing your hands frequently with soap and water for at least 20 seconds.</li><li>Maintain physical distance from others, especially those who are sick or have symptoms of COVID-19.</li><li>Avoid large gatherings and crowded indoor spaces.</li><li>Get vaccinated against COVID-19 when eligible and encourage others to do the same.</li></ul><p>Watch the video below for more information:</p><video width='320' height='240' controls><source src='/assets/videos/COVID-19- Tips for Staying Healthy.mp4' type='video/mp4'>Your browser does not support the video tag.</video>",
+            "image": "https://premierhospital.in/wp-content/uploads/2020/05/Coronavirus-COVID19-How-to-Protect-Yourself-Others.jpg"
+          }
+          
+    ]
+  }
+  
